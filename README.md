@@ -4,7 +4,7 @@ Este repositório foi criado para praticar Git e Github.
 
 ## Apresentação
 
-O grupo possui três integrantes: Lucas, Gustavo e João.
+O grupo é formado por Lucas, Gustavo e João.
 
 ## Tecnologias
 
