@@ -4,7 +4,7 @@ Este repositório foi criado para praticar Git e Github.
 
 ## Apresentação
 
-O grupo é formado por Lucas, Gustavo e João.
+O grupo é formado por Lucas Emanuel, Gustavo Henrique e João Gabriel.
 
 ## Tecnologias
 
@@ -14,6 +14,6 @@ Durante a atividade serão utilizados Git, Gitub e VS Code.
 
 | Integrante | Plataforma |
 |---|---|
-| Lucas | GitHub |
-| Gustavo | GitHub |
-| João | GitHub |
+| @lucasm18-debug | GitHub |
+| @gussicoding | GitHub |
+| @JGabriel-007 | GitHub |
