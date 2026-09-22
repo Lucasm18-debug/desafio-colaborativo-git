@@ -14,6 +14,6 @@ Durante a atividade serão utilizados Git, Gitub e VS Code.
 
 | Integrante | Plataforma |
 |---|---|
-| @lucasm18-debug | GitHub |
+| @Lucasm18-debug | GitHub |
 | @gussicoding | GitHub |
 | @JGabriel-007 | GitHub |
